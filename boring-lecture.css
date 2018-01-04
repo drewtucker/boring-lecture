@@ -1,4 +1,8 @@
 
+/*
+
+**T
+
 h2.intro {
   color: red;
 }
@@ -11,7 +15,18 @@ p.intro {
 }
 
 img.intro {
+  text-align: center;
   border-style: solid;
   border-weight: 10px;
   border-color: gray;
+}
+*/
+
+.h2intro {
+  color: red;
+}
+.intro {
+  text-align: center;
+  font-style: italic;
+  width: 50%;
 }
