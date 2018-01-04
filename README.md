@@ -10,7 +10,7 @@ This website was designed to practice styling HTML elements using classes. The '
 
 ## Setup/Installation Requirements
 
-* Close this repository
+* Clone this repository
 * Open boring-lecture.html
 
 
