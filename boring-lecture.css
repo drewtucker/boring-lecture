@@ -1,0 +1,17 @@
+
+h2.intro {
+  color: red;
+}
+
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+
+}
+
+img.intro {
+  border-style: solid;
+  border-weight: 10px;
+  border-color: gray;
+}
